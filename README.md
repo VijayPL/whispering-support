@@ -1,4 +1,4 @@
-
+Community documentation and support for Whispering – user guides and troubleshooting.
 
 # Whispering Support  
 
